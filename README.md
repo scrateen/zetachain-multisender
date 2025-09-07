@@ -14,3 +14,4 @@ The script allows you to send bulk ZETA from different exchanges to your wallets
 
 - Create API keys on each exchange and add them to the `config/api_config.py` file
 - Additional settings are in the file `config/sender_config.py`
+
