@@ -163,3 +163,4 @@ if __name__ == '__main__':
             time.sleep(sleep_time)
         else:
             logger.warning(f'ZETA has not been transfered to {address}')
+
