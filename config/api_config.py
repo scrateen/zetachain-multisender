@@ -1,4 +1,4 @@
-# OKX Exchange
+# OKX Exchange:
 OKX_API_KEY = ''
 OKX_API_SECRET = ''
 OKX_PASSPHRASE = ''
